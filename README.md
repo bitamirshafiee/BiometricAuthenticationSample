@@ -1,5 +1,4 @@
 # BiometricAuthenticationSample
-<img src=“https://www.dropbox.com/s/t8rnpot8efqlfow/fingerprin_success.jpg?dl=0">git
 
 In this sample I use :
 ```
