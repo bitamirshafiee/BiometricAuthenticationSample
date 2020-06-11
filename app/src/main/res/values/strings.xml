@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">BiometricAuthenticationSample</string>
+    <string name="str_biometric_available">Biometrics available for authentication</string>
     <string name="str_biometric_unavailable">fingerprint is unavailable</string>
     <string name="str_biometric_unavailable_device">No biometric features available on this device.</string>
     <string name="str_biometric_currently_unavailable">Biometric features are currently unavailable.</string>
