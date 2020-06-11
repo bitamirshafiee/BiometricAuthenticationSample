@@ -2,7 +2,9 @@
 https://www.dropbox.com/s/t8rnpot8efqlfow/fingerprin_success.jpg?dl=0
 
 In this sample I use :
->implementation 'androidx.biometric:biometric:1.0.1'
+```
+implementation 'androidx.biometric:biometric:1.0.1'
+```
 dependency to authenticate a user.
 in this sample with the help of  'BiometricHelper' you tell the user below messages according their device hardware :
 
